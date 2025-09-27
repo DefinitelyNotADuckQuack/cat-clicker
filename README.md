@@ -3,7 +3,7 @@
 A small clicker game written in Python with Pygame.  
 Click the cat to earn treats, buy decor and outfits, and dress up your cat.
 
-(catclicker_image.png)
+![Cat clicker](catclicker_image.png)
 
 ---
 
