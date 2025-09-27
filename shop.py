@@ -1,0 +1,17 @@
+shop_items = {
+    "cat food": {"type": "decor", "price": 5},
+    "can": {"type": "decor", "price": 5},
+    "butterfly": {"type": "decor", "price": 10},
+    "hat": {"type": "cosmetic", "price": 15},
+    "ball": {"type": "decor", "price": 15},
+    "collar": {"type": "cosmetic", "price": 20},
+    "box": {"type": "decor", "price": 25},
+    "yarn": {"type": "decor", "price": 30},
+    "bowtie": {"type": "cosmetic", "price": 35},
+    "cape": {"type": "cosmetic", "price": 40},
+    "toy mouse": {"type": "decor", "price": 45},
+    "littlebow": {"type": "cosmetic", "price": 50},
+    "minihat": {"type": "cosmetic", "price": 55},
+    "bow": {"type": "cosmetic", "price": 60},
+    "catnip": {"type": "decor", "price": 65},
+}
