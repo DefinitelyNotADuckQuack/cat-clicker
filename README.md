@@ -3,7 +3,8 @@
 A small clicker game written in Python with Pygame.  
 Click the cat to earn treats, buy decor and outfits, and dress up your cat.
 
-**All graphics and artwork in this game are original creations made by me.✨**
+**Everything you see here, from the game code to the original graphics and artwork, was made by me.✨**  
+
 
 
 ![cat](cat.png)
